@@ -8,7 +8,7 @@
 
 Bloomie Team ( Group 5 ) :
 
-Najma Chairil
-Tiara Putri Aristiani
-Fitria Puspita Arum
-Jasmine Aulia Muhammadina Yudistira
+1. Najma Chairil
+2. Tiara Putri Aristiani
+3. Fitria Puspita Arum
+4. Jasmine Aulia Muhammadina Yudistira
